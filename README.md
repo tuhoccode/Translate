@@ -1,4 +1,4 @@
-#set up
+# set up
 cài đặt thư viện Transformers trên Ubuntu
 sudo apt update
 sudo apt install python3-pip
